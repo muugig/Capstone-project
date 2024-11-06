@@ -1,0 +1,151 @@
+Age,Gender,Country,Membership Count,Store Types Used,Shopping Frequency,Pain Points,Card Storage Method,Unified System Preference,Feature Preferences,Adoption Likelihood
+45-54,Male,UK,8,Electronics,Weekly,Expired Cards,Mixed,1,Points System,3
+55+,Other,France,7,Electronics,Daily,Expired Cards,None,1,Digital Cards,3
+35-44,Female,Ireland,2,Fashion,Weekly,Forgot Cards,Phone Wallet,1,Auto-registration,4
+55+,Male,Germany,1,Grocery,Daily,Expired Cards,None,0,Points System,5
+55+,Male,Ireland,4,Electronics,Daily,Forgot Cards,None,1,Auto-registration,1
+25-34,Male,France,8,Electronics,Daily,Too Many Cards,Mixed,0,Digital Cards,5
+35-44,Other,Germany,2,Grocery,Quarterly,Too Many Cards,Mixed,1,Points System,5
+35-44,Female,France,3,Grocery,Weekly,Lost Cards,Physical Wallet,0,Digital Cards,4
+35-44,Male,USA,1,Electronics,Weekly,Too Many Cards,Physical Wallet,0,Digital Cards,1
+55+,Male,Germany,1,Grocery,Weekly,Expired Cards,None,1,Points System,4
+45-54,Male,USA,3,Electronics,Daily,Too Many Cards,Phone Wallet,1,Points System,1
+35-44,Other,Ireland,5,Electronics,Weekly,Forgot Cards,Mixed,0,Points System,2
+55+,Other,Ireland,3,Fashion,Weekly,Too Many Cards,Mixed,0,Rewards Tracking,1
+25-34,Female,Germany,1,Retail,Daily,Lost Cards,None,0,Points System,4
+45-54,Other,Germany,1,Electronics,Monthly,Too Many Cards,Physical Wallet,1,Points System,5
+25-34,Male,France,8,Restaurant,Daily,Forgot Cards,Phone Wallet,1,Points System,1
+45-54,Female,France,2,Retail,Weekly,Forgot Cards,Physical Wallet,1,Points System,1
+55+,Male,USA,3,Retail,Daily,Expired Cards,Physical Wallet,1,Auto-registration,3
+18-24,Male,Germany,2,Retail,Monthly,Too Many Cards,Physical Wallet,1,Rewards Tracking,5
+45-54,Other,Ireland,3,Fashion,Daily,Forgot Cards,Physical Wallet,1,Digital Cards,2
+25-34,Female,France,7,Electronics,Weekly,Lost Cards,Mixed,0,Points System,4
+55+,Other,France,1,Fashion,Monthly,Expired Cards,Mixed,0,Auto-registration,2
+45-54,Other,Ireland,8,Electronics,Quarterly,Lost Cards,Physical Wallet,1,Auto-registration,5
+18-24,Female,France,2,Fashion,Weekly,Too Many Cards,Phone Wallet,1,Auto-registration,1
+18-24,Male,USA,3,Fashion,Monthly,Too Many Cards,None,1,Digital Cards,1
+35-44,Male,Germany,9,Restaurant,Monthly,Too Many Cards,Phone Wallet,1,Points System,5
+35-44,Female,Ireland,7,Fashion,Quarterly,Expired Cards,Phone Wallet,1,Rewards Tracking,1
+25-34,Male,Germany,4,Grocery,Daily,Forgot Cards,Phone Wallet,1,Rewards Tracking,1
+45-54,Female,France,5,Restaurant,Daily,Expired Cards,Physical Wallet,1,Auto-registration,1
+45-54,Female,France,2,Fashion,Weekly,Lost Cards,Mixed,1,Digital Cards,4
+35-44,Other,Ireland,8,Retail,Quarterly,Expired Cards,Phone Wallet,1,Digital Cards,4
+45-54,Female,USA,4,Grocery,Daily,Lost Cards,Physical Wallet,1,Digital Cards,3
+45-54,Other,UK,9,Grocery,Quarterly,Expired Cards,Phone Wallet,0,Rewards Tracking,2
+18-24,Male,Ireland,5,Grocery,Daily,Forgot Cards,Phone Wallet,1,Auto-registration,5
+35-44,Male,UK,9,Restaurant,Monthly,Lost Cards,Physical Wallet,1,Points System,5
+55+,Male,UK,4,Fashion,Daily,Too Many Cards,Mixed,1,Rewards Tracking,5
+35-44,Male,USA,5,Fashion,Quarterly,Too Many Cards,Mixed,1,Auto-registration,3
+55+,Other,UK,9,Retail,Monthly,Expired Cards,None,1,Auto-registration,4
+18-24,Male,UK,8,Retail,Monthly,Too Many Cards,Physical Wallet,1,Points System,3
+25-34,Female,USA,3,Grocery,Monthly,Lost Cards,None,0,Points System,5
+45-54,Female,UK,1,Retail,Quarterly,Too Many Cards,None,1,Points System,2
+18-24,Female,UK,3,Restaurant,Weekly,Forgot Cards,None,0,Digital Cards,1
+45-54,Other,UK,4,Fashion,Weekly,Forgot Cards,Mixed,1,Points System,4
+25-34,Male,Ireland,2,Grocery,Weekly,Expired Cards,Physical Wallet,0,Auto-registration,4
+25-34,Male,Ireland,1,Retail,Quarterly,Lost Cards,None,1,Points System,3
+18-24,Male,Ireland,7,Restaurant,Monthly,Forgot Cards,Physical Wallet,1,Auto-registration,4
+25-34,Other,USA,8,Restaurant,Weekly,Forgot Cards,Physical Wallet,1,Rewards Tracking,5
+55+,Female,France,7,Retail,Quarterly,Lost Cards,Mixed,1,Digital Cards,5
+25-34,Female,UK,5,Fashion,Weekly,Too Many Cards,None,1,Rewards Tracking,3
+45-54,Male,UK,1,Retail,Daily,Too Many Cards,None,1,Rewards Tracking,5
+45-54,Female,USA,7,Grocery,Weekly,Expired Cards,Physical Wallet,1,Auto-registration,2
+45-54,Female,UK,7,Retail,Weekly,Too Many Cards,Phone Wallet,1,Rewards Tracking,3
+45-54,Other,Ireland,9,Restaurant,Monthly,Lost Cards,Mixed,0,Auto-registration,2
+55+,Other,France,3,Retail,Quarterly,Forgot Cards,Mixed,0,Points System,1
+35-44,Other,Germany,9,Fashion,Monthly,Too Many Cards,Mixed,1,Points System,2
+18-24,Other,UK,1,Electronics,Monthly,Expired Cards,Mixed,1,Auto-registration,1
+45-54,Male,Ireland,1,Retail,Monthly,Too Many Cards,None,1,Points System,1
+25-34,Other,Germany,4,Fashion,Monthly,Lost Cards,None,1,Digital Cards,2
+45-54,Female,France,9,Fashion,Monthly,Expired Cards,Phone Wallet,1,Rewards Tracking,3
+25-34,Male,Germany,6,Restaurant,Weekly,Too Many Cards,Mixed,1,Digital Cards,5
+25-34,Female,Ireland,3,Fashion,Monthly,Expired Cards,Mixed,1,Rewards Tracking,5
+45-54,Female,Germany,1,Fashion,Monthly,Lost Cards,Physical Wallet,1,Points System,1
+55+,Female,USA,4,Fashion,Quarterly,Forgot Cards,None,1,Digital Cards,1
+25-34,Other,Germany,9,Fashion,Daily,Lost Cards,Mixed,1,Points System,3
+25-34,Other,UK,3,Grocery,Weekly,Lost Cards,Phone Wallet,1,Rewards Tracking,4
+45-54,Male,UK,9,Grocery,Weekly,Lost Cards,Phone Wallet,1,Auto-registration,2
+25-34,Male,USA,7,Restaurant,Weekly,Lost Cards,None,1,Auto-registration,1
+25-34,Other,Ireland,4,Retail,Monthly,Forgot Cards,Phone Wallet,0,Digital Cards,5
+45-54,Female,UK,3,Fashion,Monthly,Forgot Cards,Phone Wallet,1,Points System,3
+45-54,Male,France,5,Retail,Monthly,Expired Cards,None,1,Points System,2
+18-24,Other,UK,5,Retail,Quarterly,Too Many Cards,Mixed,0,Digital Cards,3
+55+,Other,UK,3,Restaurant,Daily,Forgot Cards,Mixed,1,Auto-registration,2
+55+,Other,Ireland,9,Fashion,Monthly,Forgot Cards,Phone Wallet,1,Rewards Tracking,2
+25-34,Female,Germany,4,Fashion,Daily,Too Many Cards,Phone Wallet,1,Digital Cards,1
+55+,Other,UK,5,Electronics,Quarterly,Forgot Cards,Mixed,0,Rewards Tracking,3
+25-34,Other,USA,4,Retail,Weekly,Lost Cards,None,1,Auto-registration,3
+18-24,Other,Germany,5,Retail,Monthly,Lost Cards,Phone Wallet,1,Points System,5
+45-54,Other,France,7,Grocery,Daily,Too Many Cards,Physical Wallet,1,Auto-registration,5
+45-54,Male,Ireland,9,Electronics,Daily,Expired Cards,None,1,Digital Cards,1
+45-54,Male,France,7,Grocery,Monthly,Expired Cards,Phone Wallet,1,Points System,1
+55+,Other,Germany,5,Grocery,Weekly,Too Many Cards,Phone Wallet,1,Digital Cards,4
+18-24,Female,Germany,7,Grocery,Weekly,Too Many Cards,Physical Wallet,1,Digital Cards,5
+55+,Male,Germany,5,Restaurant,Weekly,Lost Cards,Physical Wallet,1,Auto-registration,2
+55+,Other,France,3,Restaurant,Quarterly,Expired Cards,Mixed,0,Digital Cards,3
+18-24,Male,Germany,7,Grocery,Daily,Forgot Cards,None,1,Auto-registration,1
+18-24,Male,France,2,Electronics,Daily,Lost Cards,None,1,Points System,3
+18-24,Female,Germany,9,Retail,Daily,Too Many Cards,Mixed,1,Auto-registration,3
+18-24,Other,USA,1,Electronics,Quarterly,Expired Cards,None,1,Points System,4
+45-54,Other,Germany,6,Fashion,Daily,Forgot Cards,None,1,Auto-registration,5
+35-44,Female,France,7,Restaurant,Quarterly,Forgot Cards,None,0,Rewards Tracking,1
+35-44,Female,UK,8,Retail,Weekly,Lost Cards,None,1,Rewards Tracking,3
+18-24,Other,Germany,9,Retail,Monthly,Expired Cards,None,1,Digital Cards,1
+35-44,Other,UK,2,Fashion,Daily,Expired Cards,Physical Wallet,0,Auto-registration,2
+35-44,Female,USA,2,Fashion,Daily,Too Many Cards,None,1,Auto-registration,4
+18-24,Male,Ireland,5,Grocery,Weekly,Expired Cards,Physical Wallet,1,Points System,2
+35-44,Male,USA,5,Restaurant,Monthly,Expired Cards,None,1,Digital Cards,1
+55+,Female,Germany,6,Restaurant,Quarterly,Lost Cards,Mixed,0,Auto-registration,1
+25-34,Male,UK,3,Electronics,Monthly,Expired Cards,Phone Wallet,1,Digital Cards,5
+25-34,Female,UK,8,Grocery,Weekly,Forgot Cards,Physical Wallet,1,Rewards Tracking,3
+18-24,Male,France,1,Grocery,Weekly,Lost Cards,None,1,Auto-registration,3
+45-54,Male,UK,6,Grocery,Monthly,Lost Cards,Mixed,1,Auto-registration,2
+18-24,Other,France,4,Grocery,Quarterly,Too Many Cards,Phone Wallet,1,Digital Cards,4
+45-54,Other,Ireland,1,Restaurant,Quarterly,Expired Cards,Physical Wallet,0,Auto-registration,3
+25-34,Male,Germany,7,Restaurant,Daily,Too Many Cards,Phone Wallet,1,Digital Cards,5
+18-24,Male,France,9,Grocery,Quarterly,Forgot Cards,Mixed,1,Auto-registration,2
+55+,Other,Ireland,4,Electronics,Monthly,Lost Cards,Physical Wallet,0,Points System,2
+35-44,Other,UK,4,Retail,Weekly,Lost Cards,Phone Wallet,1,Digital Cards,5
+45-54,Other,UK,6,Retail,Daily,Lost Cards,None,1,Auto-registration,4
+35-44,Female,Ireland,3,Electronics,Daily,Forgot Cards,Physical Wallet,1,Rewards Tracking,5
+35-44,Male,UK,6,Grocery,Weekly,Forgot Cards,Phone Wallet,1,Auto-registration,4
+18-24,Other,Ireland,7,Restaurant,Quarterly,Too Many Cards,Mixed,1,Rewards Tracking,5
+35-44,Male,France,3,Retail,Weekly,Too Many Cards,Mixed,1,Rewards Tracking,5
+55+,Female,France,7,Fashion,Quarterly,Too Many Cards,Physical Wallet,1,Points System,1
+35-44,Female,Ireland,3,Fashion,Weekly,Expired Cards,Phone Wallet,0,Digital Cards,2
+18-24,Other,France,2,Electronics,Monthly,Lost Cards,Physical Wallet,1,Auto-registration,5
+55+,Female,France,4,Grocery,Quarterly,Lost Cards,Physical Wallet,1,Points System,5
+25-34,Male,France,8,Retail,Monthly,Too Many Cards,Phone Wallet,1,Auto-registration,3
+35-44,Other,USA,9,Grocery,Daily,Lost Cards,Phone Wallet,0,Rewards Tracking,2
+18-24,Male,Germany,7,Retail,Weekly,Too Many Cards,None,0,Digital Cards,3
+25-34,Male,UK,1,Electronics,Daily,Expired Cards,Phone Wallet,0,Auto-registration,2
+25-34,Female,USA,3,Electronics,Daily,Expired Cards,Mixed,0,Auto-registration,3
+45-54,Female,France,9,Fashion,Daily,Forgot Cards,Physical Wallet,1,Rewards Tracking,5
+55+,Female,Ireland,1,Grocery,Daily,Expired Cards,Physical Wallet,0,Auto-registration,5
+35-44,Female,France,9,Fashion,Weekly,Too Many Cards,Mixed,1,Auto-registration,1
+18-24,Female,Germany,8,Grocery,Daily,Expired Cards,Phone Wallet,1,Rewards Tracking,3
+45-54,Other,France,1,Fashion,Weekly,Forgot Cards,Mixed,1,Points System,4
+55+,Male,Ireland,6,Restaurant,Weekly,Lost Cards,Mixed,1,Rewards Tracking,1
+45-54,Male,Germany,5,Restaurant,Monthly,Too Many Cards,None,1,Points System,3
+55+,Male,France,6,Restaurant,Quarterly,Lost Cards,Mixed,1,Digital Cards,3
+55+,Male,Germany,5,Restaurant,Quarterly,Forgot Cards,Physical Wallet,1,Points System,1
+35-44,Female,UK,6,Retail,Weekly,Forgot Cards,Mixed,1,Points System,5
+55+,Male,UK,5,Restaurant,Monthly,Forgot Cards,Physical Wallet,1,Digital Cards,3
+45-54,Other,France,5,Electronics,Weekly,Lost Cards,Physical Wallet,0,Points System,5
+55+,Other,Germany,4,Electronics,Weekly,Lost Cards,Physical Wallet,0,Rewards Tracking,1
+35-44,Male,Ireland,3,Retail,Weekly,Lost Cards,Phone Wallet,1,Points System,5
+35-44,Male,France,3,Restaurant,Monthly,Lost Cards,None,0,Digital Cards,2
+45-54,Other,UK,4,Restaurant,Quarterly,Forgot Cards,Physical Wallet,1,Rewards Tracking,4
+25-34,Other,UK,9,Restaurant,Monthly,Forgot Cards,Physical Wallet,1,Digital Cards,3
+25-34,Female,France,2,Fashion,Daily,Too Many Cards,Phone Wallet,1,Digital Cards,4
+55+,Other,Germany,9,Grocery,Monthly,Too Many Cards,Physical Wallet,1,Auto-registration,5
+18-24,Female,UK,1,Fashion,Monthly,Lost Cards,Mixed,1,Auto-registration,3
+55+,Female,Germany,1,Grocery,Monthly,Expired Cards,Mixed,1,Digital Cards,5
+45-54,Female,UK,5,Restaurant,Monthly,Expired Cards,None,1,Digital Cards,2
+45-54,Female,UK,6,Restaurant,Quarterly,Forgot Cards,Physical Wallet,1,Digital Cards,1
+45-54,Female,USA,6,Fashion,Daily,Forgot Cards,Phone Wallet,0,Auto-registration,3
+45-54,Male,UK,3,Fashion,Quarterly,Forgot Cards,Mixed,1,Auto-registration,2
+45-54,Other,Ireland,7,Grocery,Quarterly,Too Many Cards,Phone Wallet,0,Points System,2
+35-44,Female,France,9,Electronics,Monthly,Too Many Cards,Phone Wallet,1,Points System,3
+25-34,Other,France,8,Grocery,Weekly,Forgot Cards,Mixed,0,Digital Cards,5
+45-54,Other,Germany,6,Fashion,Weekly,Forgot Cards,Phone Wallet,1,Rewards Tracking,2
